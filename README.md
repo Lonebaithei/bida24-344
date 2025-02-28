@@ -16,7 +16,7 @@
 
 <header>
 
-<h1>Welcome to My Website!</h1>
+<h1>Farm Properties For Sale</h1>
 
 </header>
 
@@ -26,7 +26,7 @@
 
 <p>Here's a picture of a cute cat:</p>
 
-<img src="https://placekitten.com/200/300" alt="A cute kitten">
+<img src="images/img1.jpg" alt="Ranch Main House">
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
 
@@ -34,7 +34,7 @@
 
 <footer>
 
-<p>&copy; 2025 Your Name</p>
+<p>&copy; 2025 Lone Baithei</p>
 
 </footer>
 
