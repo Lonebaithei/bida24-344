@@ -25,9 +25,9 @@
 
 <p>This is a simple webpage hosted on GitHub Pages.</p>
 
-<p>Here's a picture of a cute cat:</p>
+<p>Here's a picture of Farmhouse:</p>
 
-<img src="https://placekitten.com/200/300" alt="A cute kitten">
+<img src="Pictures" alt="Ranch Main-Manor">
 
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
