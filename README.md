@@ -4,6 +4,6 @@
     <title>My First Web Page</title>
   </head>
   <body>
-    
+    <img src="" alt="">
   </body>
 </html>
