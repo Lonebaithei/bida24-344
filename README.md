@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My First Web Page</title>
+    <title>Properties On Sale</title>
   </head>
   <body>
-    <img src="" alt="">
+    <img src="images/img1.jpg" alt="Ranch Main house">
   </body>
 </html>
