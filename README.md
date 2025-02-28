@@ -17,7 +17,7 @@
 <main>
     <p>This is a simple webpage hosted on GitHub Pages.</p>
     <p>Here's a picture of a Ranch Main House:</p>
-    <img src="images/img1.jpg" alt="Ranch Main House">
+    <img src="images/img8.jpg" alt="Ranch Main House">
     <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
 </main>
 
