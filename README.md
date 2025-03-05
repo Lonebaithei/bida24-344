@@ -11,7 +11,15 @@
 <body>
 
   <header>
-    <h1>Farm Properties For Sale</h1>
+    <h1>Ranch Properties</h1>
+     <nav>
+        <li><a href="">Home</a></li>
+        <li><a href="">About</a></li>
+        <li><a href="">Services</a></li>
+        <li><a href="">Contacts</a></li>
+        <li><a href="">Portfolio</a></li>
+      </nav>
+
 </header>
 
 <main>
